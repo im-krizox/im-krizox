@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">¡Hi, im Kris 👋</h1>
+<h1 align="center">¡Hi!, im Kris 👋</h1>
 </div>
 
 # 💫 About Me:
